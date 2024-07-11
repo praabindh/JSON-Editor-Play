@@ -1,0 +1,19 @@
+/* src/App.css */
+
+.App {
+  text-align: left; /* Align content to the left */
+  padding: 20px; /* Optional: Add some padding for better layout */
+}
+
+.App-header {
+  text-align: left; /* Ensure header content is left-aligned */
+  width: 100%; /* Ensure header takes the full width */
+}
+
+.monaco-editor-container {
+  width: 100%; /* Ensure the Monaco Editor container takes the full width */
+  height: 500px; /* Set a fixed height for the editor */
+  border: 1px solid #ccc; /* Optional: Add a border for better visualization */
+  box-sizing: border-box; /* Ensure padding and border are included in the element's total width and height */
+}
+  
